@@ -1,0 +1,3 @@
+h1. Overview
+
+For now, this is just an experiment to try creating postgres functions by projecting them through clojure.
